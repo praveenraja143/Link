@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: ipg-app
+    env: static
+    buildCommand: npx expo export -p web
+    staticPublishPath: dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
