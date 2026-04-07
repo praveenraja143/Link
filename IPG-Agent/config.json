@@ -1,0 +1,18 @@
+{
+  "linkedin_email": "your_email@example.com",
+  "linkedin_password": "your_password",
+  "openrouter_api_key": "your_openrouter_api_key",
+  "whatsapp_phone": "+91XXXXXXXXXX",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Machine Learning",
+    "Data Analysis"
+  ],
+  "locations": ["Chennai", "Bangalore", "Remote"],
+  "certificate_folder": "certificates",
+  "post_times": ["09:00", "12:30", "18:00"],
+  "job_search_times": ["10:00", "15:00"]
+}
