@@ -1,0 +1,8 @@
+{
+  "name": "linkedin-job-agent",
+  "version": "1.0.0",
+  "description": "AI-powered LinkedIn Job Matching Agent - Free (OpenRouter + SerpAPI)",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
